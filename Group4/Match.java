@@ -1,6 +1,6 @@
 public class Match {
     private String matchName;
-    private int matchId;
+    private int matchId; // usused so ignore for now
     private Stadium stadium;
 
     public Match () {};
